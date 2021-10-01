@@ -4,7 +4,5 @@ This is the final version of the program running on the robot that we build in t
 Team Members:
 
 Nicolas Bessone
-
 Mathy Israeli
-
 Marius Sommerfeld
